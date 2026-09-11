@@ -1,0 +1,18 @@
+Name: Sumit Sonawane
+
+Role:
+software Developer
+
+Experience:
+2 Years
+
+Skills:
+React.js
+mongoDB
+JS
+Node.js
+Python
+SQL
+Git
+Flask
+REST API

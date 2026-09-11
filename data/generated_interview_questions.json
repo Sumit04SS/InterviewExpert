@@ -1,0 +1,115 @@
+{
+  "candidate": "Aaradhya Pathak",
+  "company": "Microsoft",
+  "job_title": "software Developer",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a list comprehension in Python and when would you use it?",
+      "category": "JD_SKILL",
+      "difficulty": "EASY",
+      "source": "Python",
+      "reason": "Assess fundamental Python knowledge as required by the JD",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 2,
+      "question": "Can you describe how you would write a SQL query to retrieve the top 5 lawyers with the highest rating in the Smart Lawyer Recommendation System?",
+      "category": "JD_SKILL",
+      "difficulty": "MEDIUM",
+      "source": "SQL",
+      "reason": "Evaluate ability to construct SQL queries relevant to the candidate's project experience",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 3,
+      "question": "Explain a Git branching strategy you would use to manage concurrent feature development and hotfixes for the InterviewXpert platform, and how you would handle merge conflicts.",
+      "category": "JD_SKILL",
+      "difficulty": "HARD",
+      "source": "Git",
+      "reason": "Assess advanced Git usage and conflict resolution skills required by the JD",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 4,
+      "question": "What is the primary purpose of the InterviewXpert – Commercial AI Interview Assessment Platform?",
+      "category": "PROJECT",
+      "difficulty": "EASY",
+      "source": "Project 1 - InterviewXpert – Commercial AI Interview Assessment Platform",
+      "reason": "Confirm understanding of the project's main goal as documented",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 5,
+      "question": "How does the Smart Lawyer Recommendation System use the MERN stack to implement its search and filtering functionality?",
+      "category": "PROJECT",
+      "difficulty": "MEDIUM",
+      "source": "Project 2 - Smart Lawyer Recommendation System",
+      "reason": "Explore the candidate's use of MERN technologies in the documented project",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 6,
+      "question": "Describe the workflow you implemented in the Digital Notary Documentation System to capture a live photo, store thumb impressions in the cloud, and compile an automated PDF.",
+      "category": "PROJECT",
+      "difficulty": "HARD",
+      "source": "Project 3 - Digital Notary Documentation System",
+      "reason": "Assess the candidate's ability to design and integrate a complex document generation pipeline",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 7,
+      "question": "In your role as Full Stack Cloud & AI Developer at SNAB Innovations, how did you design the AWS architecture for InterviewXpert to ensure scalability for 100 concurrent interviews?",
+      "category": "EXPERIENCE",
+      "difficulty": "MEDIUM",
+      "source": "Experience 1 - Full Stack Cloud & AI Developer",
+      "reason": "Evaluate architectural decisions made in the documented role",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 8,
+      "question": "As a Full Stack Web Developer & SEO Specialist at Chittaranjan Info Solutions Pvt. Ltd., what high‑impact SEO strategies did you implement, and how did you measure their effectiveness?",
+      "category": "EXPERIENCE",
+      "difficulty": "HARD",
+      "source": "Experience 2 - Full Stack Web Developer & SEO Specialist",
+      "reason": "Assess SEO expertise and result‑driven approach demonstrated in the role",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 9,
+      "question": "If you were asked to containerize the InterviewXpert platform using Docker, what steps would you take to create the Dockerfile and manage dependencies?",
+      "category": "SKILL_GAP",
+      "difficulty": "EASY",
+      "source": "Docker",
+      "reason": "Gauge basic Docker knowledge for a missing skill in the JD",
+      "grounding": "HYPOTHETICAL"
+    },
+    {
+      "id": 10,
+      "question": "How would you design a simple REST API using Flask to handle interview scheduling requests?",
+      "category": "SKILL_GAP",
+      "difficulty": "MEDIUM",
+      "source": "Flask",
+      "reason": "Assess ability to apply Flask for REST API development, a missing JD skill",
+      "grounding": "HYPOTHETICAL"
+    },
+    {
+      "id": 11,
+      "question": "Can you describe how you managed end‑to‑end platform QA and performance benchmarking for the InterviewXpert – Commercial AI Interview Assessment Platform?",
+      "category": "BEHAVIORAL",
+      "difficulty": "EASY",
+      "source": "Project InterviewXpert – Commercial AI Interview Assessment Platform: Built an automated candidate assessment platform leveraging AWS Bedrock and GenAI LLMs, successfully deployed commercially with DSource Placements. Sc",
+      "reason": "Understand QA and benchmarking practices demonstrated in the documented project",
+      "grounding": "DIRECT"
+    },
+    {
+      "id": 12,
+      "question": "What considerations did you take into account when architecting the search and filtering algorithms for the Smart Lawyer Recommendation System?",
+      "category": "BEHAVIORAL",
+      "difficulty": "MEDIUM",
+      "source": "Project Smart Lawyer Recommendation System: Developed a MERN stack location-intelligence platform featuring over 350+ live registered legal professionals. Architected search and filtering algorithms analyzing review rati",
+      "reason": "Explore algorithm design decisions highlighted in the behavioral evidence",
+      "grounding": "DIRECT"
+    }
+  ]
+}

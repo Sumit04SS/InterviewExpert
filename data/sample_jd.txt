@@ -1,0 +1,14 @@
+Company:
+Microsoft
+
+Job Role:
+software Developer
+
+Required Skills:
+Python
+SQL
+Git
+Docker
+REST API
+Flask
+Communication Skills

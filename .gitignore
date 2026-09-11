@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal/test resumes
+data/*.pdf
+data/*.docx
+
+# Logs
+*.log
+
+# Development/temporary notebook files
+notebooks/*_v*.py
+notebooks/*_STABLE.py
+notebooks/prototype.ipynb
+notebooks/untitled.txt

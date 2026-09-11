@@ -1,0 +1,882 @@
+{
+    "candidate": {
+        "name": "Aaradhya Pathak",
+        "phone": "+91 9511779317",
+        "email": "aaradhya1774@gmail.com"
+    },
+    "job": {
+        "company": "Microsoft",
+        "job_title": "software Developer",
+        "required_experience": {
+            "min_years": null,
+            "max_years": null
+        },
+        "required_skills": [
+            "Python",
+            "SQL",
+            "Git",
+            "Docker",
+            "REST API",
+            "Flask"
+        ],
+        "soft_skills": [
+            "Communication Skills"
+        ],
+        "raw_text": "Company:\nMicrosoft\n\nJob Role:\nsoftware Developer\n\nRequired Skills:\nPython\nSQL\nGit\nDocker\nREST API\nFlask\nCommunication Skills"
+    },
+    "candidate_fit": {
+        "overall_match_score": 61.71,
+        "overall_status": "MEDIUM MATCH"
+    },
+    "soft_skill_analysis": {
+        "required_soft_skills": [
+            "Communication Skills"
+        ],
+        "results": {
+            "Communication Skills": {
+                "score": 60.0,
+                "status": "SUPPORTING",
+                "evidence": [
+                    {
+                        "source": "Education",
+                        "strength": "SUPPORTING",
+                        "matched_text": "Coordinator",
+                        "context": "p Challenge 2025, IIT Bombay.\n• AI Prompting Event Head – Tech Guru Festival.\n• Design Head – IEDC Cell.\n• Art & Design Coordinator – Computer Engineering Student Association (COSA).\n• Volunteer – Google Developer Group (GDG) Nashik."
+                    }
+                ]
+            }
+        },
+        "score": 60.0
+    },
+    "skills": {
+        "candidate_skills": [
+            "Python",
+            "JavaScript",
+            "C++",
+            "Java",
+            "HTML",
+            "CSS",
+            "React",
+            "Node.js",
+            "Express.js",
+            "SQL",
+            "MongoDB",
+            "Firebase",
+            "Git",
+            "REST API",
+            "AWS",
+            "LLMs"
+        ],
+        "matched_required_skills": [
+            "Python",
+            "SQL",
+            "Git",
+            "REST API"
+        ],
+        "missing_required_skills": [
+            "Docker",
+            "Flask"
+        ],
+        "required_skill_score": 66.67,
+        "match_details": [
+            {
+                "skill": "Python",
+                "status": "PRESENT",
+                "evidence_types": [
+                    "DIRECT_SKILL"
+                ],
+                "evidence": [
+                    {
+                        "source": "Skills",
+                        "evidence_type": "DIRECT_SKILL",
+                        "matched_text": "Python",
+                        "context": "Programming: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud"
+                    }
+                ]
+            },
+            {
+                "skill": "SQL",
+                "status": "PRESENT",
+                "evidence_types": [
+                    "DIRECT_SKILL"
+                ],
+                "evidence": [
+                    {
+                        "source": "Skills",
+                        "evidence_type": "DIRECT_SKILL",
+                        "matched_text": "SQL",
+                        "context": "(Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify, Cloudinary\nDatabases: MongoDB, SQL, Firebase\nCore Capabilities: Data Structures & Algorithms (DSA), OOP, Cost Optimization, System Arc"
+                    }
+                ]
+            },
+            {
+                "skill": "Git",
+                "status": "PRESENT",
+                "evidence_types": [
+                    "DIRECT_SKILL"
+                ],
+                "evidence": [
+                    {
+                        "source": "Skills",
+                        "evidence_type": "DIRECT_SKILL",
+                        "matched_text": "Git",
+                        "context": "hms (DSA), OOP, Cost Optimization, System Architecture\nTesting & Tools: Automated & Manual Testing, Git, Postman, System Benchmarking"
+                    }
+                ]
+            },
+            {
+                "skill": "Docker",
+                "status": "MISSING",
+                "evidence_types": [],
+                "evidence": []
+            },
+            {
+                "skill": "REST API",
+                "status": "PRESENT",
+                "evidence_types": [
+                    "DIRECT_SKILL",
+                    "SUMMARY_EVIDENCE"
+                ],
+                "evidence": [
+                    {
+                        "source": "Professional Summary",
+                        "evidence_type": "SUMMARY_EVIDENCE",
+                        "matched_text": "RESTful APIs",
+                        "context": "ecting enterprise-grade platforms, cutting cloud\ninfrastructure costs by 50%, and developing custom RESTful APIs that streamline recruitment and workflow\nautomation.\nProject Links & APIs\n• InterviewXpert Producti"
+                    },
+                    {
+                        "source": "Skills",
+                        "evidence_type": "DIRECT_SKILL",
+                        "matched_text": "RESTful API",
+                        "context": "ript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify,"
+                    }
+                ]
+            },
+            {
+                "skill": "Flask",
+                "status": "MISSING",
+                "evidence_types": [],
+                "evidence": []
+            }
+        ],
+        "skill_evidence": {
+            "Python": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "Python",
+                    "context": "Programming: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud"
+                }
+            ],
+            "JavaScript": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "JavaScript",
+                    "context": "Programming: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, REST"
+                }
+            ],
+            "C++": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "C++",
+                    "context": "Programming: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & Dev"
+                }
+            ],
+            "C": [],
+            "Java": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "Java",
+                    "context": "Programming: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineerin"
+                }
+            ],
+            "HTML": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "HTML",
+                    "context": "ing: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys"
+                }
+            ],
+            "CSS": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "CSS",
+                    "context": "avaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Ren"
+                }
+            ],
+            "React": [
+                {
+                    "source": "Projects",
+                    "evidence_type": "PROJECT_EVIDENCE",
+                    "matched_text": "React",
+                    "context": "Digital Notary Documentation System Developed a freelance React-based notary management platform for a client project valued at INR 30,000. Engineered an",
+                    "project": "Digital Notary Documentation System"
+                },
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "React.js",
+                    "context": "Programming: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3,"
+                }
+            ],
+            "React Native": [],
+            "Next.js": [],
+            "Node.js": [
+                {
+                    "source": "Internship & Experience",
+                    "evidence_type": "EXPERIENCE_EVIDENCE",
+                    "matched_text": "Node.js",
+                    "context": "nterview costs by 50%\n(from 4 down to 2 per interview session).\n• Architected and deployed a custom Node.js WhatsApp notification service using Baileys on Render (API\nSystem) to automate candidate interview"
+                },
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "Node.js",
+                    "context": "Programming: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock,"
+                }
+            ],
+            "Express.js": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "Express.js",
+                    "context": "Programming: JavaScript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), B"
+                }
+            ],
+            "SQL": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "SQL",
+                    "context": "(Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify, Cloudinary\nDatabases: MongoDB, SQL, Firebase\nCore Capabilities: Data Structures & Algorithms (DSA), OOP, Cost Optimization, System Arc"
+                }
+            ],
+            "MySQL": [],
+            "MongoDB": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "MongoDB",
+                    "context": "vOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify, Cloudinary\nDatabases: MongoDB, SQL, Firebase\nCore Capabilities: Data Structures & Algorithms (DSA), OOP, Cost Optimization, Syste"
+                }
+            ],
+            "Firebase": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "Firebase",
+                    "context": "bda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify, Cloudinary\nDatabases: MongoDB, SQL, Firebase\nCore Capabilities: Data Structures & Algorithms (DSA), OOP, Cost Optimization, System Architecture"
+                }
+            ],
+            "Git": [
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "Git",
+                    "context": "hms (DSA), OOP, Cost Optimization, System Architecture\nTesting & Tools: Automated & Manual Testing, Git, Postman, System Benchmarking"
+                }
+            ],
+            "GitHub": [],
+            "Docker": [],
+            "REST API": [
+                {
+                    "source": "Professional Summary",
+                    "evidence_type": "SUMMARY_EVIDENCE",
+                    "matched_text": "RESTful APIs",
+                    "context": "ecting enterprise-grade platforms, cutting cloud\ninfrastructure costs by 50%, and developing custom RESTful APIs that streamline recruitment and workflow\nautomation.\nProject Links & APIs\n• InterviewXpert Producti"
+                },
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "RESTful API",
+                    "context": "ript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify,"
+                }
+            ],
+            "Flask": [],
+            "Django": [],
+            "FastAPI": [],
+            "AWS": [
+                {
+                    "source": "Projects",
+                    "evidence_type": "PROJECT_EVIDENCE",
+                    "matched_text": "AWS",
+                    "context": "Interview Assessment Platform Built an automated candidate assessment platform leveraging AWS Bedrock and GenAI LLMs, successfully deployed commercially with DSource Placements. Scale",
+                    "project": "InterviewXpert – Commercial AI Interview Assessment Platform"
+                },
+                {
+                    "source": "Professional Summary",
+                    "evidence_type": "SUMMARY_EVIDENCE",
+                    "matched_text": "AWS",
+                    "context": "-\nploying scalable end-to-end applications and cloud infrastructure. Specialized in the MERN stack, AWS serverless\narchitectures, and AI integration. Proven track record of architecting enterprise-grade"
+                },
+                {
+                    "source": "Internship & Experience",
+                    "evidence_type": "EXPERIENCE_EVIDENCE",
+                    "matched_text": "AWS",
+                    "context": "ed and deployed InterviewXpert for client DSource Placements, implementing cloud architecture\nusing AWS Lambda, Amplify, S3, EC2, Bedrock, and SES.\n• Optimized backend code and AWS cloud resource utiliza"
+                },
+                {
+                    "source": "Skills",
+                    "evidence_type": "DIRECT_SKILL",
+                    "matched_text": "AWS",
+                    "context": "Web Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify, Cloudinary\nDatabases: MongoDB,"
+                }
+            ],
+            "Figma": [],
+            "Tailwind CSS": [],
+            "Razorpay": [],
+            "Twilio": [],
+            "Google Maps API": [],
+            "Convex": [],
+            "LLMs": [
+                {
+                    "source": "Projects",
+                    "evidence_type": "PROJECT_EVIDENCE",
+                    "matched_text": "LLMs",
+                    "context": "latform Built an automated candidate assessment platform leveraging AWS Bedrock and GenAI LLMs, successfully deployed commercially with DSource Placements. Scaled system capacity to pr",
+                    "project": "InterviewXpert – Commercial AI Interview Assessment Platform"
+                }
+            ],
+            "AST": []
+        }
+    },
+    "resume_capability_evidence": {
+        "full stack development": [
+            {
+                "source": "Professional Summary",
+                "evidence_type": "SUMMARY_EVIDENCE",
+                "matched_text": "Full Stack",
+                "context": "Full Stack Web Developer, QA Tester, and Cloud Solutions Engineer experienced in designing, testing, and de-\np"
+            },
+            {
+                "source": "Professional Summary",
+                "evidence_type": "SUMMARY_EVIDENCE",
+                "matched_text": "MERN",
+                "context": "ting, and de-\nploying scalable end-to-end applications and cloud infrastructure. Specialized in the MERN stack, AWS serverless\narchitectures, and AI integration. Proven track record of architecting enterp"
+            },
+            {
+                "source": "Projects",
+                "evidence_type": "PROJECT_EVIDENCE",
+                "matched_text": "MERN",
+                "context": "Smart Lawyer Recommendation System Developed a MERN stack location-intelligence platform featuring over 350+ live registered legal profession",
+                "project": "Smart Lawyer Recommendation System"
+            },
+            {
+                "source": "Projects",
+                "evidence_type": "PROJECT_EVIDENCE",
+                "matched_text": "MERN",
+                "context": "and filtering algorithms analyzing review ratings, location matrix, and category vectors. MERN",
+                "project": "Smart Lawyer Recommendation System"
+            }
+        ],
+        "web application development": [],
+        "frontend development": [],
+        "backend development": [],
+        "REST API development": [
+            {
+                "source": "Professional Summary",
+                "evidence_type": "SUMMARY_EVIDENCE",
+                "matched_text": "RESTful APIs",
+                "context": "ecting enterprise-grade platforms, cutting cloud\ninfrastructure costs by 50%, and developing custom RESTful APIs that streamline recruitment and workflow\nautomation.\nProject Links & APIs\n• InterviewXpert Producti"
+            },
+            {
+                "source": "Skills",
+                "evidence_type": "DIRECT_SKILL",
+                "matched_text": "RESTful API",
+                "context": "ript, TypeScript, Java, Python, C++, PHP\nWeb Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering\nCloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify,"
+            }
+        ],
+        "database development": [
+            {
+                "source": "Skills",
+                "evidence_type": "DIRECT_SKILL",
+                "matched_text": "MongoDB",
+                "context": "vOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify, Cloudinary\nDatabases: MongoDB, SQL, Firebase\nCore Capabilities: Data Structures & Algorithms (DSA), OOP, Cost Optimization, Syste"
+            }
+        ]
+    },
+    "experience": {
+        "experience_duration": {
+            "status": "PARTIAL",
+            "total_months": 13.0,
+            "total_years": 1.08,
+            "technical_roles": [
+                {
+                    "role_title": "Full Stack Cloud & AI Developer",
+                    "company": "SNAB Innovations, Nashik",
+                    "date_text": "Present",
+                    "start_date": null,
+                    "end_date": null,
+                    "is_current": true,
+                    "duration_certain": false,
+                    "role_type": "TECHNICAL",
+                    "body": "• Engineered and deployed InterviewXpert for client DSource Placements, implementing cloud architecture using AWS Lambda, Amplify, S3, EC2, Bedrock, and SES. • Optimized backend code and AWS cloud resource utilization, reducing operational interview costs by 50% (from 4 down to 2 per interview session). • Architected and deployed a custom Node.js WhatsApp notification service using Baileys on Render (API System) to automate candidate interview invitations and real-time status alerts. • Developed a custom job fetching API to continuously ingest and synchronize Job Descriptions (JDs) directly from DSource’s legacy software system into InterviewXpert."
+                },
+                {
+                    "role_title": "Full Stack Web Developer & SEO Specialist",
+                    "company": "Chittaranjan Info Solutions Pvt. Ltd., Nashik",
+                    "date_text": "Sep 2025 – Jun 2026",
+                    "start_date": "2025-09-01",
+                    "end_date": "2026-06-01",
+                    "is_current": false,
+                    "duration_certain": true,
+                    "role_type": "TECHNICAL",
+                    "body": "• Spearheaded end-to-end development, performance testing, and full deployment of PayTrackPro. • Engineered dynamic server-side applications using PHP and managed relational database queries. • Maintained cross-platform responsiveness and executed comprehensive testing across multiple client websites. • Implemented high-impact SEO strategies to build organic traffic and elevate client digital footprints."
+                },
+                {
+                    "role_title": "Junior Web Developer Intern",
+                    "company": "Manasvi Tech Solutions, Nashik",
+                    "date_text": "Jan 2025 – Mar 2025",
+                    "start_date": "2025-01-01",
+                    "end_date": "2025-03-01",
+                    "is_current": false,
+                    "duration_certain": true,
+                    "role_type": "TECHNICAL",
+                    "body": "• Contributed to the development, debugging, and feature testing of the ’PixelFlow’ dynamic content manage- ment panel. • Applied core full-stack workflows to optimize database-to-frontend content synchronization."
+                }
+            ],
+            "duration_evidence": [
+                {
+                    "role": "Full Stack Web Developer & SEO Specialist",
+                    "source": "date_range",
+                    "text": "Sep 2025 – Jun 2026",
+                    "months": 10
+                },
+                {
+                    "role": "Junior Web Developer Intern",
+                    "source": "date_range",
+                    "text": "Jan 2025 – Mar 2025",
+                    "months": 3
+                }
+            ]
+        },
+        "experience_eligibility": "NOT_REQUIRED",
+        "experience_evidence_score": 53.83,
+        "experience_score_used_for_matching": 100.0,
+        "technical_experience_text": "Full Stack Cloud & AI Developer • Engineered and deployed InterviewXpert for client DSource Placements, implementing cloud architecture using AWS Lambda, Amplify, S3, EC2, Bedrock, and SES. • Optimized backend code and AWS cloud resource utilization, reducing operational interview costs by 50% (from 4 down to 2 per interview session). • Architected and deployed a custom Node.js WhatsApp notification service using Baileys on Render (API System) to automate candidate interview invitations and real-time status alerts. • Developed a custom job fetching API to continuously ingest and synchronize Job Descriptions (JDs) directly from DSource’s legacy software system into InterviewXpert. Full Stack Web Developer & SEO Specialist • Spearheaded end-to-end development, performance testing, and full deployment of PayTrackPro. • Engineered dynamic server-side applications using PHP and managed relational database queries. • Maintained cross-platform responsiveness and executed comprehensive testing across multiple client websites. • Implemented high-impact SEO strategies to build organic traffic and elevate client digital footprints. Junior Web Developer Intern • Contributed to the development, debugging, and feature testing of the ’PixelFlow’ dynamic content manage- ment panel. • Applied core full-stack workflows to optimize database-to-frontend content synchronization.",
+        "evidence": {
+            "full stack development": {
+                "evidence": [
+                    "Full Stack Cloud & AI Developer • Engineered and deployed InterviewXpert for client DSource Placements, implementing cloud architecture using AWS Lambda, Amplify, S3, EC2",
+                    "ped a custom job fetching API to continuously ingest and synchronize Job Descriptions (JDs) directly from DSource’s legacy software system into InterviewXpert. Full Stack Web Developer & SEO Specialist • Spearheaded end-to-end development, performance testing, and full deployment of PayTrackPro. • Engineered dynamic server-side",
+                    "ior Web Developer Intern • Contributed to the development, debugging, and feature testing of the ’PixelFlow’ dynamic content manage- ment panel. • Applied core full-stack workflows to optimize database-to-frontend content synchronization."
+                ],
+                "strength": "STRONG",
+                "numeric_score": 1.0
+            },
+            "web application development": {
+                "evidence": [],
+                "strength": "NONE",
+                "numeric_score": 0.0
+            },
+            "frontend development": {
+                "evidence": [
+                    "development, debugging, and feature testing of the ’PixelFlow’ dynamic content manage- ment panel. • Applied core full-stack workflows to optimize database-to-frontend content synchronization."
+                ],
+                "strength": "STRONG",
+                "numeric_score": 1.0
+            },
+            "backend development": {
+                "evidence": [
+                    "ed and deployed InterviewXpert for client DSource Placements, implementing cloud architecture using AWS Lambda, Amplify, S3, EC2, Bedrock, and SES. • Optimized backend code and AWS cloud resource utilization, reducing operational interview costs by 50% (from 4 down to 2 per interview session). • Architected and deployed a cus",
+                    ". Full Stack Web Developer & SEO Specialist • Spearheaded end-to-end development, performance testing, and full deployment of PayTrackPro. • Engineered dynamic server-side applications using PHP and managed relational database queries. • Maintained cross-platform responsiveness and executed comprehensive testing across multiple c"
+                ],
+                "strength": "STRONG",
+                "numeric_score": 1.0
+            },
+            "REST API development": {
+                "evidence": [],
+                "strength": "NONE",
+                "numeric_score": 0.0
+            },
+            "database development": {
+                "evidence": [
+                    "end-to-end development, performance testing, and full deployment of PayTrackPro. • Engineered dynamic server-side applications using PHP and managed relational database queries. • Maintained cross-platform responsiveness and executed comprehensive testing across multiple client websites. • Implemented high-impact SEO strategie",
+                    "buted to the development, debugging, and feature testing of the ’PixelFlow’ dynamic content manage- ment panel. • Applied core full-stack workflows to optimize database-to-frontend content synchronization."
+                ],
+                "strength": "STRONG",
+                "numeric_score": 1.0
+            }
+        },
+        "roles": [
+            {
+                "role_title": "Full Stack Cloud & AI Developer",
+                "company": "SNAB Innovations, Nashik",
+                "date_text": "Present",
+                "start_date": null,
+                "end_date": null,
+                "is_current": true,
+                "duration_certain": false,
+                "role_type": "TECHNICAL",
+                "body": "• Engineered and deployed InterviewXpert for client DSource Placements, implementing cloud architecture using AWS Lambda, Amplify, S3, EC2, Bedrock, and SES. • Optimized backend code and AWS cloud resource utilization, reducing operational interview costs by 50% (from 4 down to 2 per interview session). • Architected and deployed a custom Node.js WhatsApp notification service using Baileys on Render (API System) to automate candidate interview invitations and real-time status alerts. • Developed a custom job fetching API to continuously ingest and synchronize Job Descriptions (JDs) directly from DSource’s legacy software system into InterviewXpert."
+            },
+            {
+                "role_title": "Full Stack Web Developer & SEO Specialist",
+                "company": "Chittaranjan Info Solutions Pvt. Ltd., Nashik",
+                "date_text": "Sep 2025 – Jun 2026",
+                "start_date": "2025-09-01",
+                "end_date": "2026-06-01",
+                "is_current": false,
+                "duration_certain": true,
+                "role_type": "TECHNICAL",
+                "body": "• Spearheaded end-to-end development, performance testing, and full deployment of PayTrackPro. • Engineered dynamic server-side applications using PHP and managed relational database queries. • Maintained cross-platform responsiveness and executed comprehensive testing across multiple client websites. • Implemented high-impact SEO strategies to build organic traffic and elevate client digital footprints."
+            },
+            {
+                "role_title": "Junior Web Developer Intern",
+                "company": "Manasvi Tech Solutions, Nashik",
+                "date_text": "Jan 2025 – Mar 2025",
+                "start_date": "2025-01-01",
+                "end_date": "2025-03-01",
+                "is_current": false,
+                "duration_certain": true,
+                "role_type": "TECHNICAL",
+                "body": "• Contributed to the development, debugging, and feature testing of the ’PixelFlow’ dynamic content manage- ment panel. • Applied core full-stack workflows to optimize database-to-frontend content synchronization."
+            }
+        ]
+    },
+    "projects": {
+        "total_projects": 4,
+        "projects": [
+            {
+                "title": "InterviewXpert – Commercial AI Interview Assessment Platform",
+                "technologies": [
+                    "AWS",
+                    "LLMs"
+                ],
+                "year": null,
+                "description": "Built an automated candidate assessment platform leveraging AWS Bedrock and GenAI LLMs, successfully deployed commercially with DSource Placements. Scaled system capacity to process over 100 concurrent interviews daily, accelerating client recruitment speed by 3x. Integrated multi-channel candidate workflows utilizing AWS SES for email dispatch and a custom WhatsApp API for automated interview scheduling. Managed end-to-end platform QA, performance benchmarking, and continuous integration pipelines.",
+                "evidence": {
+                    "full stack development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "web application development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "frontend development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "backend development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "REST API development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "database development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    }
+                },
+                "generic_project_evidence_score": 0.0,
+                "jd_matched_skills": [],
+                "jd_missing_skills": [
+                    "Python",
+                    "SQL",
+                    "Git",
+                    "Docker",
+                    "REST API",
+                    "Flask"
+                ],
+                "jd_skill_overlap_score": 0.0,
+                "role_relevance_score": 50.0,
+                "implementation_evidence_score": 75.0,
+                "project_match_score": 26.25
+            },
+            {
+                "title": "Smart Lawyer Recommendation System",
+                "technologies": [
+                    "MERN"
+                ],
+                "year": null,
+                "description": "Developed a MERN stack location-intelligence platform featuring over 350+ live registered legal professionals. Architected search and filtering algorithms analyzing review ratings, location matrix, and category vectors.",
+                "evidence": {
+                    "full stack development": {
+                        "evidence": [
+                            "Smart Lawyer Recommendation System Developed a MERN stack location-intelligence platform featuring over 350+ live registered legal profession",
+                            "and filtering algorithms analyzing review ratings, location matrix, and category vectors. MERN"
+                        ],
+                        "strength": "STRONG",
+                        "numeric_score": 1.0
+                    },
+                    "web application development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "frontend development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "backend development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "REST API development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "database development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    }
+                },
+                "generic_project_evidence_score": 16.67,
+                "jd_matched_skills": [],
+                "jd_missing_skills": [
+                    "Python",
+                    "SQL",
+                    "Git",
+                    "Docker",
+                    "REST API",
+                    "Flask"
+                ],
+                "jd_skill_overlap_score": 0.0,
+                "role_relevance_score": 50.0,
+                "implementation_evidence_score": 75.0,
+                "project_match_score": 29.58
+            },
+            {
+                "title": "Digital Notary Documentation System",
+                "technologies": [
+                    "React"
+                ],
+                "year": null,
+                "description": "Developed a freelance React-based notary management platform for a client project valued at INR 30,000. Engineered an automated document generation workflow with live photo capture, thumb impression cloud storage, and automated PDF compilation.",
+                "evidence": {
+                    "full stack development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "web application development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "frontend development": {
+                        "evidence": [
+                            "Digital Notary Documentation System Developed a freelance React-based notary management platform for a client project valued at INR 30,000. Engineered an",
+                            "w with live photo capture, thumb impression cloud storage, and automated PDF compilation. React"
+                        ],
+                        "strength": "STRONG",
+                        "numeric_score": 1.0
+                    },
+                    "backend development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "REST API development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "database development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    }
+                },
+                "generic_project_evidence_score": 16.67,
+                "jd_matched_skills": [],
+                "jd_missing_skills": [
+                    "Python",
+                    "SQL",
+                    "Git",
+                    "Docker",
+                    "REST API",
+                    "Flask"
+                ],
+                "jd_skill_overlap_score": 0.0,
+                "role_relevance_score": 50.0,
+                "implementation_evidence_score": 75.0,
+                "project_match_score": 29.58
+            },
+            {
+                "title": "Tech Guru Event Registration Platform",
+                "technologies": [],
+                "year": null,
+                "description": "Built a high-traffic event engine that successfully processed and stored over 4,000 active user registrations.",
+                "evidence": {
+                    "full stack development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "web application development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "frontend development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "backend development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "REST API development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    },
+                    "database development": {
+                        "evidence": [],
+                        "strength": "NONE",
+                        "numeric_score": 0.0
+                    }
+                },
+                "generic_project_evidence_score": 0.0,
+                "jd_matched_skills": [],
+                "jd_missing_skills": [
+                    "Python",
+                    "SQL",
+                    "Git",
+                    "Docker",
+                    "REST API",
+                    "Flask"
+                ],
+                "jd_skill_overlap_score": 0.0,
+                "role_relevance_score": 50.0,
+                "implementation_evidence_score": 75.0,
+                "project_match_score": 26.25
+            }
+        ],
+        "project_match_score": 27.91
+    },
+    "score_breakdown": {
+        "skills": {
+            "score": 66.67,
+            "weight": 0.5,
+            "contribution": 33.34
+        },
+        "experience": {
+            "score": 100.0,
+            "raw_evidence_score": 53.83,
+            "weight": 0.2,
+            "contribution": 20.0,
+            "scoring_rule": "Experience not required by JD; no penalty applied."
+        },
+        "projects": {
+            "score": 27.91,
+            "weight": 0.3,
+            "contribution": 8.37
+        },
+        "soft_skills": {
+            "score": 60.0,
+            "weight": 0.0,
+            "contribution": 0.0,
+            "note": "Reported separately to avoid double-counting with technical fit."
+        }
+    },
+    "resume": {
+        "sections": {
+            "Professional Summary": [
+                "Full Stack Web Developer, QA Tester, and Cloud Solutions Engineer experienced in designing, testing, and de-",
+                "ploying scalable end-to-end applications and cloud infrastructure. Specialized in the MERN stack, AWS serverless",
+                "architectures, and AI integration. Proven track record of architecting enterprise-grade platforms, cutting cloud",
+                "infrastructure costs by 50%, and developing custom RESTful APIs that streamline recruitment and workflow",
+                "automation.",
+                "Project Links & APIs",
+                "• InterviewXpert Production Platform: dsource.interviewxpert.in",
+                "• WhatsApp Automated Messaging Service API: whatsapp-sending-api.onrender.com",
+                "• Job Description Extraction API: jobfetched-api.onrender.com"
+            ],
+            "Education": [
+                "Bachelor of Engineering in Computer Engineering",
+                "2022 – July 2026",
+                "Guru Gobind Singh College of Engineering & Research Centre, Nashik",
+                "CGPA:8.20",
+                "Achievements",
+                "• 1st Rank – YI Project Competition: Secured INR 10,000 in project sponsorship and commercialized",
+                "software solutions.",
+                "• All India Rank 64 – National Entrepreneurship Challenge 2025 (IIT Bombay), out of 4,000+ competing",
+                "teams.",
+                "• 2nd Rank – Startup Arena 2.0 (Eureka! Road to Enterprise 2025); selected for Zonal Rounds at IIT Bombay.",
+                "• Recognized by GeeksforGeeks for advanced problem-solving proficiency in Data Structures and Algorithms.",
+                "Leadership & Volunteering",
+                "• Team Lead – National Entrepreneurship Challenge 2025, IIT Bombay.",
+                "• AI Prompting Event Head – Tech Guru Festival.",
+                "• Design Head – IEDC Cell.",
+                "• Art & Design Coordinator – Computer Engineering Student Association (COSA).",
+                "• Volunteer – Google Developer Group (GDG) Nashik."
+            ],
+            "Projects": [
+                "InterviewXpert – Commercial AI Interview Assessment Platform",
+                "• Built an automated candidate assessment platform leveraging AWS Bedrock and GenAI LLMs, successfully",
+                "deployed commercially with DSource Placements.",
+                "• Scaled system capacity to process over 100 concurrent interviews daily, accelerating client recruitment",
+                "speed by 3x.",
+                "• Integrated multi-channel candidate workflows utilizing AWS SES for email dispatch and a custom WhatsApp",
+                "API for automated interview scheduling.",
+                "• Managed end-to-end platform QA, performance benchmarking, and continuous integration pipelines.",
+                "Smart Lawyer Recommendation System",
+                "• Developed a MERN stack location-intelligence platform featuring over 350+ live registered legal professionals.",
+                "• Architected search and filtering algorithms analyzing review ratings, location matrix, and category vectors.",
+                "Digital Notary Documentation System",
+                "• Developed a freelance React-based notary management platform for a client project valued at INR 30,000.",
+                "• Engineered an automated document generation workflow with live photo capture, thumb impression cloud",
+                "storage, and automated PDF compilation.",
+                "Tech Guru Event Registration Platform",
+                "• Built a high-traffic event engine that successfully processed and stored over 4,000 active user registrations."
+            ],
+            "Internship & Experience": [
+                "Full Stack Cloud & AI Developer",
+                "Present",
+                "SNAB Innovations, Nashik",
+                "• Engineered and deployed InterviewXpert for client DSource Placements, implementing cloud architecture",
+                "using AWS Lambda, Amplify, S3, EC2, Bedrock, and SES.",
+                "• Optimized backend code and AWS cloud resource utilization, reducing operational interview costs by 50%",
+                "(from 4 down to 2 per interview session).",
+                "• Architected and deployed a custom Node.js WhatsApp notification service using Baileys on Render (API",
+                "System) to automate candidate interview invitations and real-time status alerts.",
+                "• Developed a custom job fetching API to continuously ingest and synchronize Job Descriptions (JDs) directly",
+                "from DSource’s legacy software system into InterviewXpert.",
+                "Full Stack Web Developer & SEO Specialist",
+                "Sep 2025 – Jun 2026",
+                "Chittaranjan Info Solutions Pvt. Ltd., Nashik",
+                "• Spearheaded end-to-end development, performance testing, and full deployment of PayTrackPro.",
+                "• Engineered dynamic server-side applications using PHP and managed relational database queries.",
+                "• Maintained cross-platform responsiveness and executed comprehensive testing across multiple client websites.",
+                "• Implemented high-impact SEO strategies to build organic traffic and elevate client digital footprints.",
+                "Junior Web Developer Intern",
+                "Jan 2025 – Mar 2025",
+                "Manasvi Tech Solutions, Nashik",
+                "• Contributed to the development, debugging, and feature testing of the ’PixelFlow’ dynamic content manage-",
+                "ment panel.",
+                "• Applied core full-stack workflows to optimize database-to-frontend content synchronization."
+            ],
+            "Skills": [
+                "Programming: JavaScript, TypeScript, Java, Python, C++, PHP",
+                "Web Development: React.js, Node.js, Express.js, HTML, CSS, RESTful API Engineering",
+                "Cloud & DevOps: AWS (Lambda, Amplify, S3, Bedrock, SES, EC2), Baileys, Render, Netlify, Cloudinary",
+                "Databases: MongoDB, SQL, Firebase",
+                "Core Capabilities: Data Structures & Algorithms (DSA), OOP, Cost Optimization, System Architecture",
+                "Testing & Tools: Automated & Manual Testing, Git, Postman, System Benchmarking"
+            ],
+            "Certifications": []
+        }
+    }
+}
